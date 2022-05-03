@@ -22,7 +22,7 @@ public class StudyBuddy  {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			String url="jdbc:mysql://localhost:3306/project0";
 			String user="root";
-			String password="Shubham@123";
+			String password="Rahul@123";
 			con=DriverManager.getConnection(url,user,password);	
 			
 			

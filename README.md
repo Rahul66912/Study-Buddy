@@ -8,6 +8,11 @@ Study Buddy is an online study app, which rewards users for quiz completions. Th
 #Management tool
 	1.Maven
 	2.JDBC connectivity
+	
+#Packages
+	1.Study Buddy
+
+
 
 
 
